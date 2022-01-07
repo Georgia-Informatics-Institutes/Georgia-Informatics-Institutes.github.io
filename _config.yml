@@ -18,19 +18,41 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Georgia Informatics Institutes for Research and Education
+email: kjohnsen@uga.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
+# Fields minima uses, but are not defaulted with the jekyll new command.
+# Author is the default for posts, the Atom feed, and is used in the footer.
+author: "Contact:"
+facebook_username: universityofga
+twitter_username: universityofga
+instagram_username: universityofga
+youtube_username: UniversityOfGeorgia
+# linkedin_username: UniversityOfGeorgia
+
+# New fields not defaulted by jekyll-new with the minima theme.
+# Add a copyright. A copyright symbol and year will be added automatically
+# copyright: Company Name, Inc.
+copyright: "University of Georgia, Athens, GA 30602"
+# title-logo is a new field that, when used, displays a logo
+# instead of custom text. Ideally, image is 50px high and takes up
+# minimal horizontal space. Tested with a new root "images" folder e.g.:
+# title-logo: /images/my-logo.png (or JPG, etc.)
+title-logo: /images/title-logo.png
+
+# content: "706‑542‑3000"
 
 # Build settings
-theme: minima
+# Removed minima theme as it is now a regular theme.
+# theme: minima
 plugins:
   - jekyll-feed
 
