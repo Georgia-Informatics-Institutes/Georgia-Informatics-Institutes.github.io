@@ -32,7 +32,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Fields minima uses, but are not defaulted with the jekyll new command.
 # Author is the default for posts, the Atom feed, and is used in the footer.
-author: "Contact:"
+author: "Contact: Dr.Kyle Johnsen"
 # facebook_username: universityofga
 # twitter_username: universityofga
 # instagram_username: universityofga
