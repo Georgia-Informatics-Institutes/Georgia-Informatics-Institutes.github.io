@@ -1,3 +1,4 @@
+# Author: Donaghy "Conlan" Henson // Spring 2022 // Georgia Informatics Institutes WebPage
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -32,10 +33,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Fields minima uses, but are not defaulted with the jekyll new command.
 # Author is the default for posts, the Atom feed, and is used in the footer.
 author: "Contact:"
-facebook_username: universityofga
-twitter_username: universityofga
-instagram_username: universityofga
-youtube_username: UniversityOfGeorgia
+# facebook_username: universityofga
+# twitter_username: universityofga
+# instagram_username: universityofga
+# youtube_username: UniversityOfGeorgia
 # linkedin_username: UniversityOfGeorgia
 
 # New fields not defaulted by jekyll-new with the minima theme.
