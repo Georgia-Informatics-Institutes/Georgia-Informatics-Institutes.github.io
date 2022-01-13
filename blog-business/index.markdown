@@ -4,6 +4,6 @@
 
 layout: home-business
 title: "News"
-category: Business
+category: News
 ---
 

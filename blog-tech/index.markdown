@@ -4,6 +4,6 @@
 
 layout: home-tech
 title: "Courses"
-category: Tech
+category: Courses
 ---
 
