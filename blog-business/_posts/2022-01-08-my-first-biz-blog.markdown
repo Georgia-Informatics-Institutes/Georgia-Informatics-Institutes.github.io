@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "My first business blog"
+title:  "My first news blog"
 date:   2022-01-08 09:54:44 -0500
-category: Business
+category: News
 ---
 Welcome to my first business blog!
