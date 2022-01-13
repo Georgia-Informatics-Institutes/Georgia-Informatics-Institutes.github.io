@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Post 1!"
+date:   2022-01-11 09:54:50 -0500
+categories: jekyll update
+image: /assets/images/image1.jpeg
+---
+This is a post.
+
+![]({{ page.image | relative_url}})
+
+
+
