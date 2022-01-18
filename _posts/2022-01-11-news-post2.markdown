@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "News Post 2!"
+date:   2022-01-10 10:55 -0500
+categories: announcements
+image: /assets/images/news-image-2.jpg
+---
+This is a news post!
