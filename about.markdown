@@ -8,8 +8,9 @@ The explosion of digital information has created new opportunities in so many fi
 
 Below is a look at our members. If you have any questions, feel free to visit their sites and they would be glad to chat. 
 
-| Member      | Member | Member     |
-| :----:        |    :----:   |          :----: |
+
+| Member | Member | Member |
+| :----: | :----: | :----: |
 | ![Kyle Johnsen](/assets/images/members/kyle-johnsen.jpeg) | ![Lakshmish Ramaswamy](/assets/images/members/lakshmish-ramaswamy.jpeg) | ![Jason Anastasopoulos](/assets/images/members/Jason-Anastasopoulos.jpeg) |
 | [Kyle Johnsen](https://google.com) | [Lakshmish Ramaswamy](https://google.com) | [Jason Anastasopoulos](https://google.com) |
 | ![Jonathan Arnold](/assets/images/members/Jonathan-Arnold.jpeg) | ![Budak Arpinar](/assets/images/members/Budak-Arpinar.jpeg) | ![Steven Bellan](/assets/images/members/Steven-Bellan.jpeg) |

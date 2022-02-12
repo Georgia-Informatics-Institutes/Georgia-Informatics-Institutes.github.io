@@ -1,8 +1,0 @@
----
-layout: post
-title:  "News Post 1!"
-date:   2022-01-12 10:55 -0500
-categories: announcements
-image: /assets/images/news-image-1.jpg
----
-This is a news post! fjdjsakljflkdjslakjflkdjlksaj... kfdjlskajfkld.. kfdjksajflkd. kfdjsklajflkdjslkajf.

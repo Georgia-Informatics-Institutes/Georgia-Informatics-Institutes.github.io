@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Post 2!"
-date:   2022-01-12 09:54:55 -0500
-categories: news
----
-This is a post!
