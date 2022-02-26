@@ -9,28 +9,49 @@ layout: default
 
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      {%- if post.category =="Announcements" -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endif -%}
-      {%- endfor -%}
-    </ul>
+ 
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/news-page/feed.xml" | relative_url }}">via RSS</a></p>
+
+<section class="posts-listing">
+    {%- if site.posts.size > 0 -%}
+    {%- for post in site.posts -%}
+    {%- if post.category=="Announcements" -%}
+  <article class="post-item">
+    <a class="post-item__inner" href="{{ post.url | relative_url }}">
+  
+      <div class="post-item__thumbnail-wrapper">
+        <div class="post-item__thumbnail" style=":url(image_url.jpg);"></div>
+      </div>    
+       <div class="post-item__content-wrapper">
+        <h2 class="post-item__title heading-size-4"><span>{{ post.title | escape }}</span></h2>
+    
+        
+  <div class="post-item__metas">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    <time class="post-item__meta post-item__meta--date" datetime="2022-02-14T20:24:54+00:00">{{ post.date | date: date_format }}</time>
+          <p class="post-item__meta post-item__meta--category">Category</p>
+        </div>
+    
+                <div class="post-item__excerpt">
+                    {%- if site.show_excerpts -%}
+                    {{ post.excerpt }}
+                  {%- endif -%}
+                  </div>
+        <div class="post-item__read-more-wrapper">
+          <p class="post-item__read-more">Read more</p>
+        </div>
+    
+      
+      </div>
+</a>
+  
+  
+  </article>
   {%- endif -%}
-
+  {%- endfor -%}
+ <!-- <p class="rss-subscribe">subscribe <a href="{{ "/blog-announcements/feed.xml" | relative_url }}">via RSS</a></p> -->
+  {%- endif -%}
+ 
+  </section>
 </div>
+  

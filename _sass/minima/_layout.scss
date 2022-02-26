@@ -25,7 +25,8 @@
 }
 
 .site-nav {
-  float: right;
+  // float: right;\
+  text-align: center;
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
@@ -39,6 +40,7 @@
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
+    text-decoration: underline;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -230,7 +232,7 @@
   margin-bottom: $spacing-unit;
 
   h2 {
-    @include relative-font-size(2);
+    @include relative-font-size(1);
 
     @include media-query($on-laptop) {
       @include relative-font-size(1.75);

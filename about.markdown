@@ -1,15 +1,142 @@
 ---
 layout: about-page
-title: About
+title: About Us
 permalink: /about/
 ---
 
-The explosion of digital information has created new opportunities in so many fields-from the sciences to engineering and the humanities. The goal of the Georgia Informatics Institutes (GII) is to help faculty use informatics as a tool to help answer research questions while making it easier for them to incorporate informatics into their instruction. 
+## Test TEst Test The explosion of digital information has created new opportunities in so many fields-from the sciences to engineering and the humanities. <span style="color:red;">The goal of the Georgia Informatics Institutes (GII)</span> is to help faculty use informatics as a tool to help answer research questions while making it easier for them to incorporate informatics into their instruction. 
+ 
+<span style="color: black;">
+Below is a look at our members. If you have any questions, feel free to follow the link to their sites and they would be glad to chat.
+</span>
 
-Below is a look at our members. If you have any questions, feel free to visit their sites and they would be glad to chat. 
+<main>
+	
+	<div class="leadership">
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">Head of GII</span>
+				</div>				
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/kyle-johnsen.jpeg" alt="Kyle Johnsen">
+			</div>
+			<div class="leader__name">
+				<h2>Kyle Johnsen</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+	
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">Head of GII</span>
+				</div>				
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/lakshmish-ramaswamy.jpeg" alt="Lakshmish Ramaswamy">
+			</div>
+			<div class="leader__name">
+				<h2>Lakshmish Ramaswamy</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
 
 
-| Member | Member | Member |
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">Head of GII</span>
+				</div>				
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Jason-Anastasopoulos.jpeg" alt="Jason Anastasopoulos">
+			</div>
+			<div class="leader__name">
+				<h2>Jason Anastasopoulos</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+		
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">5</span>
+					<span>years with STEM Initiative</span>
+				</div>
+				<a href="#" class="leader__bio">Bio</a>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Jonathan-Arnold.jpeg" alt="Jonathan Arnold">
+			</div>
+			<div class="leader__name">
+				<h2>Jonathan Arnold</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">4</span>
+					<span>years with STEM Initiative</span>
+				</div>
+				<a href="#" class="leader__bio">Bio</a>
+			</div>
+			<div class="leader__img">
+				<img src="https://images.unsplash.com/photo-1601931935821-5fbe71157695?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=927&q=80" alt="Tiffany Edwards">
+			</div>
+			<div class="leader__name">
+				<h2>Tiffany Edwards</h2>
+				<p><em>Director of Marketing</em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">3</span>
+					<span>years with STEM Initiative</span>
+				</div>
+				<a href="#" class="leader__bio">Bio</a>
+			</div>
+			<div class="leader__img">
+				<img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80" alt="Chelsea Clayton">
+			</div>
+			<div class="leader__name">
+				<h2>Chelsea Clayton</h2>
+				<p><em>Director of Public Relations</em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">2</span>
+					<span>years with STEM Initiative</span>
+				</div>
+				<a href="#" class="leader__bio">Bio</a>
+			</div>
+			<div class="leader__img">
+				<img src="https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80" alt="Kevin McCallister">
+			</div>
+			<div class="leader__name">
+				<h2>Kevin McCallister</h2>
+				<p><em>Art Director</em></p>
+			</div>
+		</div>
+	</div>
+
+</main>
+
+
+
+| Faculty |  | Students |
 | :----: | :----: | :----: |
 | ![Kyle Johnsen](/assets/images/members/kyle-johnsen.jpeg) | ![Lakshmish Ramaswamy](/assets/images/members/lakshmish-ramaswamy.jpeg) | ![Jason Anastasopoulos](/assets/images/members/Jason-Anastasopoulos.jpeg) |
 | [Kyle Johnsen](https://google.com) | [Lakshmish Ramaswamy](https://google.com) | [Jason Anastasopoulos](https://google.com) |
@@ -43,7 +170,6 @@ Below is a look at our members. If you have any questions, feel free to visit th
 | [Thiab Taha](https://google.com) | [Richard Watson](https://google.com) | [Meredith Welch-Devine](https://google.com) |
 | ![Steven Wheeler](/assets/images/members/Steven-Wheeler.jpeg) | ![Zhong-Ru (Paul) Xie](/assets/images/members/Zhong-Ru-(Paul)-Xie.jpeg) | ![Wenxuan Zhong](/assets/images/members/Wenxuan-Zhong.jpeg) |
 | [Steven Wheeler](https://google.com) | [Zhong-Ru (Paul) Xie](https://google.com) | [Wenxuan Zhong](https://google.com) |
-
 
 
 
