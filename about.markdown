@@ -33,7 +33,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			<div class="leader__header">
 				<div class="leader__exp">
 					<span class="years">Faculty</span>
-					<span class="headtitle">Head of GII</span>
+					<span class="headtitle">GII Member</span>
 				</div>				
 			</div>
 			<div class="leader__img">
@@ -50,7 +50,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			<div class="leader__header">
 				<div class="leader__exp">
 					<span class="years">Faculty</span>
-					<span class="headtitle">Head of GII</span>
+					<span class="headtitle">GII Member</span>
 				</div>				
 			</div>
 			<div class="leader__img">
@@ -62,20 +62,114 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 		</div>
 		
-
 		<div class="leader">
 			<div class="leader__header">
 				<div class="leader__exp">
-					<span class="years">5</span>
-					<span>years with STEM Initiative</span>
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
 				</div>
-				<a href="#" class="leader__bio">Bio</a>
 			</div>
 			<div class="leader__img">
 				<img src="/assets/images/members/Jonathan-Arnold.jpeg" alt="Jonathan Arnold">
 			</div>
 			<div class="leader__name">
 				<h2>Jonathan Arnold</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Budak-Arpinar.jpeg" alt="Budak Arpinar">
+			</div>
+			<div class="leader__name">
+				<h2>Budak Arpinar</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Steven-Bellan.jpeg" alt="Steven Bellan">
+			</div>
+			<div class="leader__name">
+				<h2>Steven Bellan</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Casey-Bergman.jpeg" alt="Casey Bergman">
+			</div>
+			<div class="leader__name">
+				<h2>Casey Bergman</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Alexander-Bucksch.jpeg" alt="Alexander Bucksch">
+			</div>
+			<div class="leader__name">
+				<h2>Alexander Bucksch</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Prashant-Doshi.jpeg" alt="Prashant Doshi">
+			</div>
+			<div class="leader__name">
+				<h2>Prashant Doshi</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Dale-Green.jpeg" alt="Dale Green">
+			</div>
+			<div class="leader__name">
+				<h2>Dale Green</h2>
 				<p><em><a href="google.com">Website Link</a></em></p>
 			</div>
 		</div>
