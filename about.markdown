@@ -24,7 +24,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 				<img src="/assets/images/members/kyle-johnsen.jpeg" alt="Kyle Johnsen">
 			</div>
 			<div class="leader__name">
-				<h2>Kyle Johnsen</h2>
+				<h2>Test Test Kyle Johnsen</h2>
 				<p><em><a href="google.com">Website Link</a></em></p>
 			</div>
 		</div>
