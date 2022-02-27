@@ -7,7 +7,7 @@ permalink: /about/
 ## The explosion of digital information has created new opportunities in so many fields-from the sciences to engineering and the humanities. <span style="color:red;">The goal of the Georgia Informatics Institutes (GII)</span> is to help faculty use informatics as a tool to help answer research questions while making it easier for them to incorporate informatics into their instruction. 
  
 <span style="color: black;">
-Below is a look at our members. If you have any questions, feel free to follow the link to their sites and they would be glad to chat.
+Below is a look at our members. If you have any questions, feel free to follow the link to their sites to find their contact information and they would be glad to chat.
 </span>
 
 <div class="main">
