@@ -765,6 +765,22 @@ Below is a look at our members. If you have any questions, feel free to follow t
 				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Student</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Conlan-Henson.jpeg" alt="Conlan Henson">
+			</div>
+			<div class="leader__name">
+				<h2>Conlan Henson</h2>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
+			</div>
+		</div>
 		
 </div>
 
