@@ -10,7 +10,7 @@ permalink: /about/
 Below is a look at our members. If you have any questions, feel free to follow the link to their sites and they would be glad to chat.
 </span>
 
-<main>
+<div class="main">
 	
 	<div class="leadership">
 		<div class="leader">
@@ -226,7 +226,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 		</div>
 	</div>
 
-</main>
+</div>
 
 
 

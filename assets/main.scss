@@ -52,7 +52,7 @@ h1 {
     --name-text-hover: #b33737;
   }
   
-  
+ 
   
   button {
     border: 0;
@@ -75,7 +75,7 @@ h1 {
     }
   }
   
-  main {
+  .main {
     max-width: 1200px;
     margin: 0 auto;
     padding: 2rem;
@@ -231,7 +231,7 @@ h1 {
   }
   
 // Announcements
-/* hover state */
+/* hover state */ 
 .posts-listing {
 	display: flex;
 	flex-wrap: wrap;
