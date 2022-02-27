@@ -25,7 +25,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Kyle Johnsen</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 	
@@ -41,7 +41,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Lakshmish Ramaswamy</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -58,7 +58,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Jason Anastasopoulos</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 		
@@ -74,7 +74,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Jonathan Arnold</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -90,7 +90,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Budak Arpinar</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -106,7 +106,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Steven Bellan</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -122,7 +122,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Casey Bergman</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -138,7 +138,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Alexander Bucksch</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -154,7 +154,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Prashant Doshi</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -170,7 +170,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Dale Green</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -186,7 +186,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Juan Gutierrez</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -202,7 +202,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Andreas Handel</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -218,7 +218,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Melissa Hallow</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -234,7 +234,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Tim Heckman</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -250,7 +250,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Yi Hong</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -266,7 +266,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Itai Himelboim</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -282,7 +282,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Lawrence Hornak</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -298,7 +298,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Natarajan Kannan</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -314,7 +314,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Jessica Kissinger</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -330,7 +330,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Bill Kretzschmar</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -346,7 +346,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Nicole Lazar</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 		
@@ -362,7 +362,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Jaewoo Lee</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -378,7 +378,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Charlie Li</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -394,7 +394,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Kang Li</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -410,7 +410,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Weifeng Li</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -426,7 +426,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Ping Ma</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -442,7 +442,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Benjamin Manning</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -458,7 +458,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>John Miller</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -474,7 +474,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Deepak Mishra</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -490,7 +490,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Javad Mohammadpour</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -506,7 +506,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Roberto Perdisci</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -522,7 +522,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Ramana Pidaparti</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -538,7 +538,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Shannon Quinn</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -554,7 +554,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Khaled Rasheed</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -570,7 +570,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Stephen Rathbun</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -586,7 +586,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Rosanna Rivero</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -602,7 +602,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Dawn Robinson</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -618,7 +618,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Hani Safadi</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -634,7 +634,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Aaron Schecter</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -650,7 +650,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>WenZhan Song</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -666,7 +666,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>David Stooksbury</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -682,7 +682,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Thiab Taha</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -698,7 +698,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Richard Watson</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -714,7 +714,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Meredith Welch Devine</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -730,7 +730,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Steven Wheeler</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 
@@ -746,7 +746,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Zhong Ru-(Paul) Xie</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 		
@@ -762,7 +762,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Wenxuan Zhong</h2>
-				<p><em><a href="google.com">Website Link</a></em></p>
+				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 		
