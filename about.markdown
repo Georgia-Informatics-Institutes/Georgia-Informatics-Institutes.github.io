@@ -24,7 +24,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 				<img src="/assets/images/members/kyle-johnsen.jpeg" alt="Kyle Johnsen">
 			</div>
 			<div class="leader__name">
-				<h2>Test Test Kyle Johnsen</h2>
+				<h2>Kyle Johnsen</h2>
 				<p><em><a href="google.com">Website Link</a></em></p>
 			</div>
 		</div>
@@ -177,112 +177,594 @@ Below is a look at our members. If you have any questions, feel free to follow t
 		<div class="leader">
 			<div class="leader__header">
 				<div class="leader__exp">
-					<span class="years">4</span>
-					<span>years with STEM Initiative</span>
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
 				</div>
-				<a href="#" class="leader__bio">Bio</a>
 			</div>
 			<div class="leader__img">
-				<img src="https://images.unsplash.com/photo-1601931935821-5fbe71157695?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=927&q=80" alt="Tiffany Edwards">
+				<img src="/assets/images/members/Juan-Gutierrez.jpeg" alt="Juan Gutierrez">
 			</div>
 			<div class="leader__name">
-				<h2>Tiffany Edwards</h2>
-				<p><em>Director of Marketing</em></p>
+				<h2>Juan Gutierrez</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
 			</div>
 		</div>
 
 		<div class="leader">
 			<div class="leader__header">
 				<div class="leader__exp">
-					<span class="years">3</span>
-					<span>years with STEM Initiative</span>
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
 				</div>
-				<a href="#" class="leader__bio">Bio</a>
 			</div>
 			<div class="leader__img">
-				<img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80" alt="Chelsea Clayton">
+				<img src="/assets/images/members/Andreas-Handel.jpeg" alt="Andreas Handel">
 			</div>
 			<div class="leader__name">
-				<h2>Chelsea Clayton</h2>
-				<p><em>Director of Public Relations</em></p>
+				<h2>Andreas Handel</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
 			</div>
 		</div>
 
 		<div class="leader">
 			<div class="leader__header">
 				<div class="leader__exp">
-					<span class="years">2</span>
-					<span>years with STEM Initiative</span>
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
 				</div>
-				<a href="#" class="leader__bio">Bio</a>
 			</div>
 			<div class="leader__img">
-				<img src="https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80" alt="Kevin McCallister">
+				<img src="/assets/images/members/Melissa-Hallow.jpeg" alt="Melissa Hallow">
 			</div>
 			<div class="leader__name">
-				<h2>Kevin McCallister</h2>
-				<p><em>Art Director</em></p>
+				<h2>Melissa Hallow</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
 			</div>
 		</div>
-	</div>
 
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Tim-Heckman.jpeg" alt="Tim Heckman">
+			</div>
+			<div class="leader__name">
+				<h2>Tim Heckman</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Yi-Hong.jpeg" alt="Yi Hong">
+			</div>
+			<div class="leader__name">
+				<h2>Yi Hong</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Itai-Himelboim.jpeg" alt="Itai Himelboim">
+			</div>
+			<div class="leader__name">
+				<h2>Itai Himelboim</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Lawrence-Hornak.jpeg" alt="Lawrence Hornak">
+			</div>
+			<div class="leader__name">
+				<h2>Lawrence Hornak</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Natarajan-Kannan.jpeg" alt="Natarajan Kannan">
+			</div>
+			<div class="leader__name">
+				<h2>Natarajan Kannan</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Jessica-Kissinger.jpeg" alt="Jessica Kissinger">
+			</div>
+			<div class="leader__name">
+				<h2>Jessica Kissinger</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Bill-Kretzschmar.jpeg" alt="Bill Kretzschmar">
+			</div>
+			<div class="leader__name">
+				<h2>Bill Kretzschmar</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Nicole-Lazar.jpeg" alt="Nicole Lazar">
+			</div>
+			<div class="leader__name">
+				<h2>Nicole Lazar</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+		
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Jaewoo-Lee.jpeg" alt="Jaewoo Lee">
+			</div>
+			<div class="leader__name">
+				<h2>Jaewoo Lee</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Charlie-Li.jpeg" alt="Charlie Li">
+			</div>
+			<div class="leader__name">
+				<h2>Charlie Li</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Kang-Li.jpeg" alt="Kang Li">
+			</div>
+			<div class="leader__name">
+				<h2>Kang Li</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Weifeng-Li.jpeg" alt="Weifeng Li">
+			</div>
+			<div class="leader__name">
+				<h2>Weifeng Li</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Ping-Ma.jpeg" alt="Ping Ma">
+			</div>
+			<div class="leader__name">
+				<h2>Ping Ma</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Benjamin-Manning.jpeg" alt="Benjamin Manning">
+			</div>
+			<div class="leader__name">
+				<h2>Benjamin Manning</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/John-Miller.jpeg" alt="John Miller">
+			</div>
+			<div class="leader__name">
+				<h2>John Miller</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Deepak-Mishra.jpeg" alt="Deepak Mishra">
+			</div>
+			<div class="leader__name">
+				<h2>Deepak Mishra</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Javad-Mohammadpour.jpeg" alt="Javad Mohammadpour">
+			</div>
+			<div class="leader__name">
+				<h2>Javad Mohammadpour</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Roberto-Perdisci.jpeg" alt="Roberto Perdisci">
+			</div>
+			<div class="leader__name">
+				<h2>Roberto Perdisci</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Ramana-Pidaparti.jpeg" alt="Ramana Pidaparti">
+			</div>
+			<div class="leader__name">
+				<h2>Ramana Pidaparti</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Shannon-Quinn.jpeg" alt="Shannon Quinn">
+			</div>
+			<div class="leader__name">
+				<h2>Shannon Quinn</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Khaled-Rasheed.jpeg" alt="Khaled Rasheed">
+			</div>
+			<div class="leader__name">
+				<h2>Khaled Rasheed</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Stephen-Rathbun.jpeg" alt="Stephen Rathbun">
+			</div>
+			<div class="leader__name">
+				<h2>Stephen Rathbun</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Rosanna-Rivero.jpeg" alt="Rosanna Rivero">
+			</div>
+			<div class="leader__name">
+				<h2>Rosanna Rivero</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Dawn-Robinson.jpeg" alt="Dawn Robinson">
+			</div>
+			<div class="leader__name">
+				<h2>Dawn Robinson</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Hani-Safadi.jpeg" alt="Hani Safadi">
+			</div>
+			<div class="leader__name">
+				<h2>Hani Safadi</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Aaron-Schecter.jpeg" alt="Aaron Schecter">
+			</div>
+			<div class="leader__name">
+				<h2>Aaron Schecter</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/WenZhan-Song.jpeg" alt="WenZhan Song">
+			</div>
+			<div class="leader__name">
+				<h2>WenZhan Song</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/David-Stooksbury.jpeg" alt="David Stooksbury">
+			</div>
+			<div class="leader__name">
+				<h2>David Stooksbury</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Thiab-Taha.jpeg" alt="Thiab Taha">
+			</div>
+			<div class="leader__name">
+				<h2>Thiab Taha</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Richard-Watson.jpeg" alt="Richard Watson">
+			</div>
+			<div class="leader__name">
+				<h2>Richard Watson</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Meredith-Welch-Devine.jpeg" alt="Meredith Welch Devine">
+			</div>
+			<div class="leader__name">
+				<h2>Meredith Welch Devine</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Steven-Wheeler.jpeg" alt="Steven Wheeler">
+			</div>
+			<div class="leader__name">
+				<h2>Steven Wheeler</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Zhong-Ru-(Paul)-Xie.jpeg" alt="Zhong Ru-(Paul) Xie">
+			</div>
+			<div class="leader__name">
+				<h2>Zhong Ru-(Paul) Xie</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+		
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
+					<span class="headtitle">GII Member</span>
+				</div>
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Wenxuan-Zhong.jpeg" alt="Wenxuan Zhong">
+			</div>
+			<div class="leader__name">
+				<h2>Wenxuan Zhong</h2>
+				<p><em><a href="google.com">Website Link</a></em></p>
+			</div>
+		</div>
+		
 </div>
 
-
-
-| Faculty |  | Students |
-| :----: | :----: | :----: |
-| ![Kyle Johnsen](/assets/images/members/kyle-johnsen.jpeg) | ![Lakshmish Ramaswamy](/assets/images/members/lakshmish-ramaswamy.jpeg) | ![Jason Anastasopoulos](/assets/images/members/Jason-Anastasopoulos.jpeg) |
-| [Kyle Johnsen](https://google.com) | [Lakshmish Ramaswamy](https://google.com) | [Jason Anastasopoulos](https://google.com) |
-| ![Jonathan Arnold](/assets/images/members/Jonathan-Arnold.jpeg) | ![Budak Arpinar](/assets/images/members/Budak-Arpinar.jpeg) | ![Steven Bellan](/assets/images/members/Steven-Bellan.jpeg) |
-| [Jonathan Arnold](https://google.com) | [Budak Arpinar](https://google.com) | [Steven Bellan](https://google.com) |
-| ![Casey Bergman](/assets/images/members/Casey-Bergman.jpeg) | ![Alexander Bucksch](/assets/images/members/Alexander-Bucksch.jpeg) | ![Dorothy Carter](/assets/images/members/Dorothy-Carter.jpeg) |
-| [Casey Bergman](https://google.com) | [Alexander Bucksch](https://google.com) | [Dorothy Carter](https://google.com) |
-| ![Prashant Doshi](/assets/images/members/Prashant-Doshi.jpeg) | ![Dale Green](/assets/images/members/Dale-Green.jpeg) | ![Juan Gutierrez](/assets/images/members/Juan-Gutierrez.jpeg) |
-| [Prashant Doshi](https://google.com) | [Dale Green](https://google.com) | [Juan Gutierrez](https://google.com) |
-| ![Andreas Handel](/assets/images/members/Andreas-Handel.jpeg) | ![Melissa Hallow](/assets/images/members/Melissa-Hallow.jpeg) | ![Tim Heckman](/assets/images/members/Tim-Heckman.jpeg) |
-| [Andreas Handel](https://google.com) | [Melissa Hallow](https://google.com) | [Tim Heckman](https://google.com) |
-| ![Yi Hong](/assets/images/members/Yi-Hong.jpeg) | ![Itai Himelboim](/assets/images/members/Itai-Himelboim.jpeg) | ![Lawrence Hornak](/assets/images/members/Lawrence-Hornak.jpeg) |
-| [Yi Hong](https://google.com) | [Itai Himelboim](https://google.com) | [Lawrence Hornak](https://google.com) |
-| ![Natarajan Kannan](/assets/images/members/Natarajan-Kannan.jpeg) | ![Jessica Kissinger](/assets/images/members/Jessica-Kissinger.jpeg) | ![Bill Kretzschmar](/assets/images/members/Bill-Kretzschmar.jpeg) |
-| [Natarajan Kannan](https://google.com) | [Jessica Kissinger](https://google.com) | [Bill Kretzschmar](https://google.com) |
-| ![Nicole Lazar](/assets/images/members/Nicole-Lazar.jpeg) | ![Jaewoo Lee](/assets/images/members/Jaewoo-Lee.jpeg) | ![Charlie Li](/assets/images/members/Charlie-Li.jpeg) |
-| [Nicole Lazar](https://google.com) | [Jaewoo Lee](https://google.com) | [Charlie Li](https://google.com) |
-| ![Kang Li](/assets/images/members/Kang-Li.jpeg) | ![Weifeng Li](/assets/images/members/Weifeng-Li.jpeg) | ![Ping Ma](/assets/images/members/Ping-Ma.jpeg) |
-| [Kang Li](https://google.com) | [Weifeng Li](https://google.com) | [Ping Ma](https://google.com) |
-| ![Benjamin Manning](/assets/images/members/Benjamin-Manning.jpeg) | ![John Miller](/assets/images/members/John-Miller.jpeg) | ![Deepak Mishra](/assets/images/members/Deepak-Mishra.jpeg) |
-| [Benjamin Manning](https://google.com) | [John Miller](https://google.com) | [Deepak Mishra](https://google.com) |
-| ![Javad Mohammadpour](/assets/images/members/Javad-Mohammadpour.jpeg) | ![Roberto Perdisci](/assets/images/members/Roberto-Perdisci.jpeg) | ![Ramana Pidaparti](/assets/images/members/Ramana-Pidaparti.jpeg) |
-| [Javad Mohammadpour](https://google.com) | [Roberto Perdisci](https://google.com) | [Ramana Pidaparti](https://google.com) |
-| ![Shannon Quinn](/assets/images/members/Shannon-Quinn.jpeg) | ![Khaled Rasheed](/assets/images/members/Khaled-Rasheed.jpeg) | ![Stephen Rathbun](/assets/images/members/Stephen-Rathbun.jpeg) |
-| [Shannon Quinn](https://google.com) | [Khaled Rasheed's Website](https://google.com) | [Stephen Rathbun's Website](https://google.com) |
-| ![Rosanna Rivero](/assets/images/members/Rosanna-Rivero.jpeg) | ![Dawn Robinson](/assets/images/members/Dawn-Robinson.jpeg) | ![Hani Safadi](/assets/images/members/Hani-Safadi.jpeg) |
-| [Rosanna Rivero](https://google.com) | [Dawn Robinson](https://google.com) | [Hani Safadi](https://google.com) |
-| ![Aaron Schecter](/assets/images/members/Aaron-Schecter.jpeg) | ![WenZhan Song](/assets/images/members/WenZhan-Song.jpeg) | ![David Stooksbury](/assets/images/members/David-Stooksbury.jpeg) |
-| [Aaron Schecter](https://google.com) | [WenZhan Song](https://google.com) | [David Stooksbury](https://google.com) |
-| ![Thiab Taha](/assets/images/members/Thiab-Taha.jpeg) | ![Richard Watson](/assets/images/members/Richard-Watson.jpeg) | ![Meredith Welch-Devine](/assets/images/members/Meredith-Welch-Devine.jpeg) |
-| [Thiab Taha](https://google.com) | [Richard Watson](https://google.com) | [Meredith Welch-Devine](https://google.com) |
-| ![Steven Wheeler](/assets/images/members/Steven-Wheeler.jpeg) | ![Zhong-Ru (Paul) Xie](/assets/images/members/Zhong-Ru-(Paul)-Xie.jpeg) | ![Wenxuan Zhong](/assets/images/members/Wenxuan-Zhong.jpeg) |
-| [Steven Wheeler](https://google.com) | [Zhong-Ru (Paul) Xie](https://google.com) | [Wenxuan Zhong](https://google.com) |
-
-
-
-
-
-
-
-
-
-
-
-
-[//]: # "You can find the source code for Minima at GitHub:"
-[//]: # "[jekyll][jekyll-organization] /"
-[//]: # "[minima](https://github.com/jekyll/minima)"
-
-[//]: # "You can find the source code for Jekyll at GitHub:"
-[//]: # "[jekyll][jekyll-organization] /"
-[//]: # "[jekyll](https://github.com/jekyll/jekyll)"
-
-
-[//]: # "[jekyll-organization]: https://github.com/jekyll"
