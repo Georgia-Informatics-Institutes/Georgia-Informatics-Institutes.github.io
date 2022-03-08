@@ -229,7 +229,9 @@ h1 {
   .headtitle {
     font-size: 25px;
   }
-  
+  p , li, a , .et_pb_blurb_description a , .et_pb_blurb_description , .et_pb_text_inner {
+    font-size:14px;
+  }
 // Announcements
 /* hover state */ 
 .posts-listing {
