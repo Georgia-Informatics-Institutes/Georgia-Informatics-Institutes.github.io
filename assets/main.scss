@@ -229,8 +229,12 @@ h1 {
   .headtitle {
     font-size: 25px;
   }
-  a, .et_pb_blurb_description a , .et_pb_blurb_description , .et_pb_text_inner {
+  a, .et_pb_blurb_description a , .et_pb_text_inner {
     font-size: 20px;
+  }
+
+  .et_pb_blurb_description {
+    font-size: 18px;
   }
 
   li {
