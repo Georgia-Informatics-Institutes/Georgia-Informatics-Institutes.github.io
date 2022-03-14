@@ -7,7 +7,7 @@ permalink: /about/
 
 
 <div class="main">
-	## The explosion of digital information has created new opportunities in so many fields-from the sciences to engineering and the humanities. <span style="color:red;">The goal of the Georgia Informatics Institutes (GII)</span> is to help faculty use informatics as a tool to help answer research questions while making it easier for them to incorporate informatics into their instruction. 
+	The explosion of digital information has created new opportunities in so many fields-from the sciences to engineering and the humanities. <span style="color:red;">The goal of the Georgia Informatics Institutes (GII) is to help faculty use informatics as a tool to help answer research questions while making it easier for them to incorporate informatics into their instruction.</span> 
  
 <span style="color: black;">
 Below is a look at our members. If you have any questions, feel free to follow the link to their sites to find their contact information and they would be glad to chat.
@@ -781,7 +781,6 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Conlan Henson</h2>
-				<p><em><a href="https://www.google.com/">Website Link</a></em></p>
 			</div>
 		</div>
 		
