@@ -1,44 +1,73 @@
-<header class="site-header" role="banner">
-
-  <div class="wrapper">
-    {%- assign default_paths = site.pages | map: "path" -%}
+{%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <!--
       Original title display code from the minima theme.
       <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     -->
 
-      <!-- Custom: add title or title-logo -->
-      <a class="site-title" rel="author" href="{{ "/" | relative_url }} "> 
-        {%- if site.title-logo -%} 
-          <img src="{{ site.title-logo | relative_url }}" alt="{{ site.title | escape }}"></img>
-          {%- else -%}
-            {{ site.title | escape }}
-        {%- endif -%}
-      </a>
-      <!-- end title or title-logo -->
-
-    {%- if page_paths -%}
-      <nav class="site-nav">
-        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-        <label for="nav-trigger">
-          <span class="menu-icon">
-            <svg viewBox="0 0 18 15" width="18px" height="15px">
-              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
-            </svg>
-          </span>
-        </label>
-
-        <div class="trigger">
-          <a class="page-link" href="/">Home</a>
-          {%- for path in page_paths -%}
+<header class="ugaheader ugaheader--black ugaheader--border ugaheader--border-red">
+  <div class="ugaheader__container">
+    <div class="ugaheader__row">
+      <div class="ugaheader__wordmark">
+        <a class="ugaheader__wordmark-link" href="{{ "/" | relative_url }} ">
+          University of Georgia
+        </a>
+      </div>
+      <div class="ugaheader__nav-container">
+        <!-- Menu toggle button displays on smaller screen sizes -->
+        <button id="ugaheader__nav-menu-toggle" class="ugaheader__nav-menu-toggle" aria-expanded="false" aria-label="Toggle Menu">
+          <i class="fas fa-fw fa-caret-down" title="Toggle Menu" aria-hidden="true"></i>
+        </button>
+        
+        <nav class="ugaheader__nav">
+          <!-- Standard Links -->
+          {%- if page_paths -%}
+          <ul class="ugaheader__nav-list ugaheader__nav-links">
+            {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            <li class="ugaheader__nav-list-element"><a class="ugaheader__nav-list-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+            
             {%- endif -%}
           {%- endfor -%}
-        </div>
-      </nav>
-    {%- endif -%}
+           
+          </ul>
+          {%- endif -%}
+          <!-- Button Links -->
+          <ul class="ugaheader__nav-list ugaheader__nav-buttons">
+            <li class="ugaheader__nav-list-element">
+              <a class="ugaheader__nav-list-link" href="">Donate Now</a>
+            </li>
+            <li class="ugaheader__nav-list-element">
+              <a class="ugaheader__nav-list-link" href="">Apply</a>
+            </li>
+          </ul>
+          <!-- Social Media Icons (FontAwesome 5) -->
+          <ul class="ugaheader__nav-list ugaheader__nav-icons">
+            <li class="ugaheader__nav-list-element">
+              <a class="ugaheader__nav-list-link" href=""><i class="fab fa-fw fa-facebook-square" title="Facebook" aria-hidden="true"></i></a>
+            </li>
+            <li class="ugaheader__nav-list-element">
+              <a class="ugaheader__nav-list-link" href=""><i class="fab fa-fw fa-twitter-square" title="Twitter" aria-hidden="true"></i></a>
+            </li>
+            <li class="ugaheader__nav-list-element">
+              <a class="ugaheader__nav-list-link" href=""><i class="fab fa-fw fa-linkedin" title="LinkedIn" aria-hidden="true"></i></a>
+            </li>
+          </ul>
+          <!-- Search Element -->
+          <form action="https://www.uga.edu/search.php" class="ugaheader__search">
+            <button type="button" id="ugaheader__search-toggle" class="ugaheader__search-toggle" aria-expanded="false" aria-label="Toggle Search">
+              <i class="fas fa-fw fa-search" title="Toggle Search" aria-hidden="true"></i>
+            </button>
+            <div id="ugaheader__search-field" class="ugaheader__search-field">
+              <label id="ugaheader__search-label" class="ugaheader__form-label" for="ugaheader__search-input">Search</label>
+              <input id="ugaheader__search-input" class="ugaheader__search-input" type="search" name="q" placeholder="Search" aria-labelledby="ugaheader__search-label" autocomplete="off">
+            </div>
+            <button type="submit" class="ugaheader__search-submit">Submit</button>
+          </form>
+        </nav>
+      </div>
+    </div>
   </div>
 </header>
+
