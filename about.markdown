@@ -36,6 +36,22 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			<div class="leader__header">
 				<div class="leader__exp">
 					<span class="years">Faculty</span>
+					<span class="headtitle">GII Associate Director</span>
+				</div>				
+			</div>
+			<div class="leader__img">
+				<img src="/assets/images/members/Eugene-Pierce.jpeg" alt="Eugene Pierce">
+			</div>
+			<div class="leader__name">
+				<h2>Eugene Pierce</h2>
+				<p><em><a href="Eugene.Pierce@uga.edu">Email Link</a></em></p>
+			</div>
+		</div>
+				
+		<div class="leader">
+			<div class="leader__header">
+				<div class="leader__exp">
+					<span class="years">Faculty</span>
 					<span class="headtitle">GII Member</span>
 				</div>				
 			</div>

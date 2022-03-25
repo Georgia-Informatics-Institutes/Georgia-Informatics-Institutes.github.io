@@ -116,8 +116,8 @@ body {
     @media (min-width: 768px) {
       .ugafooter__logo-link {
         margin: 0;
-        max-width: 300px;
-        height: 80px;
+        max-width: 500px;
+        height: 62px;
         background-image: url("../img/GEORGIA-FS-CW.png");
         background-position: left top; } }
   .ugafooter__links-list {

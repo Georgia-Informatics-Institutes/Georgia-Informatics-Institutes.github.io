@@ -121,20 +121,20 @@
   background-color: transparent;
   border: 0;
   display: block;
-  width: 148px;
-  height: 8px;
-  background: transparent url("../img/GEORGIA-HW-1CR.svg") left center no-repeat;
+  /*width: 148px;
+  height: 8px;*/
+  /*background: transparent url("../img/GEORGIA-HW-1CR.svg") left center no-repeat;*/
   background-size: contain; }
   .ugaheader__wordmark--shield .ugaheader__wordmark-link {
     width: 177px;
     height: 20px;
-    background-image: url("../img/GEORGIA-XH-FC.svg"); }
+    /*background-image: url("../img/GEORGIA-XH-FC.svg"); */ }
   .ugaheader--red .ugaheader__wordmark-link,
   .ugaheader--black .ugaheader__wordmark-link {
-    background-image: url("../img/GEORGIA-HW-W.svg"); }
+   /* background-image: url("../img/GEORGIA-HW-W.svg"); */ }
   .ugaheader--red .ugaheader__wordmark--shield .ugaheader__wordmark-link,
   .ugaheader--black .ugaheader__wordmark--shield .ugaheader__wordmark-link {
-    background-image: url("../img/GEORGIA-XH-CW.svg"); }
+    /*background-image: url("../img/GEORGIA-XH-CW.svg"); */ }
 
 .ugaheader__nav-container {
   position: relative;
