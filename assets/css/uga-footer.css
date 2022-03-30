@@ -176,7 +176,8 @@ body {
       display: block;
       padding: .25em 1em;
       font-size: .75em;
-      color: rgba(255, 255, 255, 0.6);
+      /*color: rgba(255, 255, 255, 0.6);*/
+      color:white !important;
       text-decoration: none;
       -webkit-transition: color 100ms ease-in;
       transition: color 100ms ease-in; }
@@ -193,7 +194,7 @@ body {
     color: rgba(255, 255, 255, 0.6);
     text-align: center;
     font-weight: 300;
-    font-size: .75em;
+    font-size: 12px;
     font-family: "Merriweather Sans", "Tahoma", "Helvetica Neue", Arial, sans-serif; }
     @media (min-width: 768px) {
       .ugafooter__address {

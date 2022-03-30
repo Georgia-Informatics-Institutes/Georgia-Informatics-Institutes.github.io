@@ -78,8 +78,11 @@ h1 {
     margin: 0 auto;
     padding: 2rem;
     top: 130px;
+    font-size:16px;
   }
-  
+  .main span {
+    font-size:16px;
+  }
   .nav {
     position: fixed;
     z-index: 999;
@@ -331,12 +334,13 @@ h1 {
 
 .post-item__title {
 	color: white;
-	/*line-height: 1.6;*/
-	margin-top: -4rem;
+	/*line-height: 1.6;
+	margin-top: -4rem;*/
 	/*font-size: 2.6rem;*/
 	margin-bottom: 1rem;
 	span {
 		display: inline;
+    font-size:18px;
 		background-image: linear-gradient(to right, rgb(211, 74, 74), rgb(194, 167, 167));
 		padding: .2rem .6rem;
 		-webkit-box-decoration-break: clone;
@@ -351,14 +355,14 @@ h1 {
 .post-item__meta--date {
 	color: #6d6d6d;
 	letter-spacing: 0.01rem;
-	font-size: 1.4rem;
+	font-size: 1rem;
 }
 
 .post-item__meta--category {
 	display: inline-block;
 	background-color: #ee1414;
 	color: white;
-	font-size: 1.1rem;
+	font-size: 1rem;
 	text-transform: uppercase;
 	letter-spacing: 0.01rem;
 	font-weight: 700;
@@ -381,4 +385,10 @@ h1 {
 	background-size: 100% 2px;
 	background-position: left bottom;
 	transition: background-size .3s;
+}
+.post-title {
+  margin-top:40px;
+}
+.et-pb-controllers a {
+  background-color:black;
 }
