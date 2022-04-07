@@ -62,6 +62,9 @@ title-logo: /images/title-logo-5.jpg
 plugins:
   - jekyll-feed
 
+  # Adding in Jekyll Archives to automatically generate post archives by dates, tags, and categories.
+  plugins:
+  - jekyll-archives
 
 # Exclude from processing.
 # The following items will not be processed, by default.
