@@ -44,7 +44,7 @@ Below is a look at our members. If you have any questions, feel free to follow t
 			</div>
 			<div class="leader__name">
 				<h2>Eugene Pierce</h2>
-				<p><em><a href="Eugene.Pierce@uga.edu">Email Link</a></em></p>
+				<p><em><a href="mailto: Eugene.Pierce@uga.edu">Email Link</a></em></p>
 			</div>
 		</div>
 				
