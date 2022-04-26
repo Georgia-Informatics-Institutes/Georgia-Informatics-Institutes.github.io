@@ -243,7 +243,6 @@ $.ajax({
             html += line;
         }
 		
-
 		 createmap(myarr) ;
 		
         $("#api").html(html);
